@@ -1,8 +1,8 @@
 //
-//  Item+CoreDataClass.swift
+//  Image+CoreDataClass.swift
 //  DreamLister
 //
-//  Created by Joe Janiszewski on 11/14/16.
+//  Created by Joe Janiszewski on 11/16/16.
 //  Copyright © 2016 Joe Janiszewski. All rights reserved.
 //
 
@@ -10,6 +10,6 @@ import Foundation
 import CoreData
 
 
-public class Item: NSManagedObject {
+public class Image: NSManagedObject {
 
 }
